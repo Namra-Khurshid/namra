@@ -1,2 +1,8 @@
 This is my task,
+<<<<<<< Updated upstream
 This is my subtask A,C.
+=======
+This is my subtask A,Changes.
+Changes to be commited in A from B.
+
+>>>>>>> Stashed changes
